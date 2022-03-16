@@ -1,0 +1,15 @@
+.item{
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #000;
+}
+
+.button{
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(83, 223, 176);
+}
