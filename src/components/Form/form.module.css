@@ -1,0 +1,17 @@
+label{
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.input{
+    padding: 3px;
+}
+
+.button{
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(83, 223, 176);
+}
